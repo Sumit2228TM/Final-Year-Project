@@ -1,0 +1,15 @@
+# NeuroLink Assist v1.0 — Pinned Dependencies
+# Core Vision
+mediapipe==0.10.14
+opencv-python==4.10.0.84
+numpy>=1.26.4
+
+# Voice / Audio
+pyttsx3==2.98
+SpeechRecognition==3.10.4
+PyAudio==0.2.14
+
+# UI Framework
+PyQt5>=5.15
+
+# Utilities (stdlib: threading, queue, time, dataclasses — no extra install)
